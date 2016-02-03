@@ -54,27 +54,47 @@ que les sites. Pour faciliter la rédaction, un modèle de cahier en `markdown` 
 
 # Récupération du jeu de données
 
+Chaque binôme se voit attribuer un jeu de données (accessible depuis 
+[bebatut-edu.github.io](http://bebatut-edu.github.io/)). Chaque lien renvoit sur
+la page de l'EBI metagenomic consacrée au jeu de données. Cette page rassemble la
+description du jeu de données, les données téléchargeables ainsi que les résutats
+des analyses effectuées par l'EBI metagenomics.
 
-
-Analysez les métadonnées disponibles sur la page de l'EBI metagenomic et expliquez
-comment les séquences ont été obtenues. 
-
-Expliquer 
+Pour vous familiariser avec le jeu de données, analysez les métadonnées 
+disponibles sur la page de l'EBI metagenomic et expliquez comment les séquences 
+ont été obtenues, à quoi elles correspondent, ...
 
 # Traitement des données métagénomiques
 
-Suivre le [tutoriel d'ASaiM](http://asaim.readthedocs.org/en/latest/framework/tutorial/index.html)
+Avant d'analyser les jeux de données de votre côté, regardez les résultats obtenus
+par l'EBI metagenomic
+
+## Analyses des résultats de l'EBI metagenomic
+
+Quelles sont les différentes étapes d'analyses effectuées par l'EBI metagenomic?
+Quels sont les outils utilisés? 
+
+Pour chaque étape, quels sont les résultats obtenus? Pour les différentes étapes 
+du contrôle qualité, combien et quelle proportion de séquences sont conservées?
+Quels sont les taxons majoritaires? Quelles sont les principales fonctions 
+réalisés par les organismes présents?
+
+## Analyses du jeux de données avec ASaiM
+
+Pour analyser le jeu de données, suivez le 
+[tutoriel d'ASaiM](http://asaim.readthedocs.org/en/latest/framework/tutorial/index.html)
 
 Pour chaque étape du tutoriel, expliquez les outils choisis, les paramètres, les
-résultats obtenues. Lorsque les données sont disponibles, comparez les résultats
-obtenus avec ASaiM avec ceux obtenus avec EBI metagenomics.
+résultats obtenus. Lorsque c'est possible, comparez les résultats
+obtenus avec ASaiM avec ceux obtenus avec le pipeline d'EBI metagenomics.
 
 # Discussion
 
-Faire un schéma des analyses effectuées.
+Faites un schéma des analyses effectuées et leur enchainements (avec les entrées
+et sorties des différentes étapes).
 
 Que pensez-vous de ce type d'analyses? Quelles sont les avantages et les limites?
 
-Discutez les affiliations taxonomiques et fonctionelles et remettez les résultats
-dans le contexte des résultats obtenus [@turnbaugh_core_2009].
+Discutez les affiliations taxonomiques et fonctionelles obtenues. Remettez ces
+résultats dans le contexte de l'analyse initiale [@turnbaugh_core_2009].
 

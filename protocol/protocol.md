@@ -98,3 +98,4 @@ Que pensez-vous de ce type d'analyses? Quelles sont les avantages et les limites
 Discutez les affiliations taxonomiques et fonctionelles obtenues. Remettez ces
 résultats dans le contexte de l'analyse initiale [@turnbaugh_core_2009].
 
+# Références

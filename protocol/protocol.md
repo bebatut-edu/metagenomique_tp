@@ -82,12 +82,12 @@ l'analyse fonctionnelle?
 
 ## Analyses du jeux de données avec ASaiM
 
-[*ASaiM*](http://asaim.github.io/) est un framework développé par traiter les
+[ASaiM](http://asaim.github.io/) est un framework développé par traiter les
 données métagénomiques dans un environnment Galaxy dédié. Cet environnement est
 accessible depuis un navigateur Web à l'adresse : [http://172.22.15.14:8080](http://172.22.15.14:8080).
 
 Pour analyser le jeu de données, suivez le 
-[tutoriel d'*ASaiM*](http://asaim.readthedocs.org/en/latest/framework/tutorial/index.html)
+[tutoriel d'ASaiM](http://asaim.readthedocs.org/en/latest/framework/tutorial/index.html)
 (Section "Process and analyze the dataset"). Pensez à enregistrer les fichiers 
 générés à chaque étape pour pouvoir reprendre les analyses aux différentes séances
 de TP. 
